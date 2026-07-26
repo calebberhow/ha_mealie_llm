@@ -3,6 +3,9 @@
   "name": "Mealie LLM Assistant Tools",
   "version": "0.1.0",
   "config_flow": true,
+  "documentation": "https://github.com/calebberhow/ha_mealie_llm",
+  "integration_type": "service",
+  "issue_tracker": "https://github.com/calebberhow/ha_mealie_llm/issues",
   "dependencies": [
     "mealie"
   ],
